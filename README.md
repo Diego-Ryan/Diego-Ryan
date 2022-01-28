@@ -11,6 +11,5 @@ OPA! Fala programadores e sou Diego
 </div>
 
 <div style="display: inline_block"><br>
-<img align="center" height="30" width="40" shttps://devicon.dev/#:~:text=pa%20fill%2Drule,preencher%20%3D%22%20%23%205a45ff%20%22%3E%20%3C/%20path%
 
   
