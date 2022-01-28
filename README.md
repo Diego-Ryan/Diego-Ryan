@@ -1,16 +1,16 @@
-### Hi there 👋
+OPA! Fala programadores e sou Diego 
+- 🌱 I’m currently learning Python
+- 👯 Procuro colaborarar em desenvolvimento 
+- 🤔 Estou procurando ajuda em C#
+- 😄 Pronouns: ele/dele
 
-<!--
-**Diego-Ryan/Diego-Ryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
+ <a href="https://github.com/Diego-Ryan">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diego-Ryan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-Ryan&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
-Here are some ideas to get you started:
+<div style="display: inline_block"><br>
+<img align="center" height="30" width="40" shttps://devicon.dev/#:~:text=pa%20fill%2Drule,preencher%20%3D%22%20%23%205a45ff%20%22%3E%20%3C/%20path%
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
