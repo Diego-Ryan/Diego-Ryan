@@ -1,7 +1,7 @@
 OPA! Fala programadores e sou Diego 
 - 🌱 I’m currently learning Python
 - 👯 Procuro colaborarar em desenvolvimento 
-- 🤔 Estou procurando ajuda em C#
+- 🤔 Estou procurando ajuda em MySQL
 - 😄 Pronouns: ele/dele
 
 <div align="center">
