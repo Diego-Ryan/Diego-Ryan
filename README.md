@@ -1,7 +1,7 @@
 OPA! Fala programadores e sou Diego 
-- 🌱 I’m currently learning Python
-- 💻 Procuro colaborarar em desenvolvimento 
-- 🤔 Estou procurando ajuda em MySQL
+- 🌱 Tenho conhecimento em Python e MySQL
+- 💻 Procuro colaborarar como estagiario  
+- 🤔 Atualmente estudo Engenharia de software
 
 
 <div align="center">
