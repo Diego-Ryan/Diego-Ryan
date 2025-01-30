@@ -1,7 +1,7 @@
 OPA! Fala programadores e sou Diego 
-- 🌱 Tenho conhecimento em Python e MySQL
-- 💻 Procuro colaborarar como estagiario  
-- 🤔 Atualmente estudo Engenharia de software
+- 🌱 Tenho conhecimento em C e java
+- 💻 Procuro colaborar como estagiario 
+- 🎓 Estou no 3° mes de Engenharia de sofware
 
 
 <div align="center">
