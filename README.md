@@ -1,7 +1,7 @@
 OPA! Fala programadores e sou Diego 
-- 🌱 Tenho conhecimento em C e java
+- 🌱 Tenho conhecimento em C#
 - 💻 Procuro colaborar como estagiario 
-- 🎓 Estou no 3° mes de Engenharia de sofware
+- 🎓 Estou no 3° mes de Engenharia de software
 
 
 <div align="center">
